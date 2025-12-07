@@ -20,15 +20,3 @@ This website is built automatically using GitHub Pages. The main page you're rea
     * The result of my own deployment
 1.  **[Ethical Reflection: The Cuddlefish Dilemma](./7-ethics/summary.md)**
     * A critical analysis of the ethical implications of AI-driven camouflage.
-
-
-## How to setup your own portfolio
-- fork this repo
-- go to the **settings** tab on top of your github page
-- first, enable issues by scrolling down, and under "features" check the "issues" checkbox. 
-- Then, on the left-hand menu click on the **Pages** tab
-- under build and deployment, select `deploy from a branch`
-- select main/root and save
-
-After a few minutes you will see the site is published.
-
