@@ -14,8 +14,6 @@ This portfolio contains a summary of my work, including machine learning exercis
     * A summary of my findings from tuning a Random Forest Classifier.
 1.  **[Hackathon Model: Project Cuddlefish](./6-hackathon/project_cuddlefish.md)**
     * Our award-winning model that predicts the optimal camouflage pattern for a cuttlefish based on its environment.
-1.  **[Deployment: Nijmeegse Straattaal Generator](./5-deployment/summary.md)**
-    *(https://github.com/MischTrader/MADS-deployment)*
     6. [Deployment: Nijmeegse Straattaal Generator](https://github.com/MischTrader/MADS-deployment)
    - Artefacts te vinden in: `2-frontend/straattaal/`
    - Bevat: backend (FastAPI), frontend (HTML), Dockerfile en docker-compose.yaml
